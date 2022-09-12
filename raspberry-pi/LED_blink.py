@@ -5,8 +5,14 @@ import time
 led = digitalio.DigitalInOut(board.LED)
 led.direction = digitalio.Direction.OUTPUT
 
- for x in range (10, 0, -1)
-print(x)
-  time.sleep()
-  led = true 
-print("Liftoff!")
+led.value = True
+led.value = False
+
+while True
+  for x in range (10, 0, -1)
+   print(x)
+   led.value = True
+   time.sleep()
+   led.value = False
+print("Lift off")
+
