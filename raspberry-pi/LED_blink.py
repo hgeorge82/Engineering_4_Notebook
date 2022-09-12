@@ -2,14 +2,14 @@
 import board
 import digitalio
 import time
-led = digitalio.DigitalInOut(board.LED)
+led = digitalio.DigitalInOut(board.GP13)
 led.direction = digitalio.Direction.OUTPUT
 
 led.value = True
 led.value = False
 
-while True
-  for x in range (10, 0, -1)
+while True:
+  for x in range (10, 0, -1):
    print(x)
    led.value = True
    time.sleep()
