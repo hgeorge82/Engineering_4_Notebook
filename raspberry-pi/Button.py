@@ -26,6 +26,7 @@ while True:
       else: 
         print("Liftoff!")
         ledgreen.value = False 
+        print(x)
         time.sleep(0.5)
         ledgreen.value = True
         time.sleep(0.5)
