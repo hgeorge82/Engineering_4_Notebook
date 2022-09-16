@@ -6,14 +6,26 @@ ledgreen = digitalio.DigitalInOut(board.GP18)
 ledgreen.direction = digitalio.Direction.OUTPUT
 ledred = digitalio.DigitalInOut(board.GP13)
 ledred.direction = digitalio.Direction.OUTPUT
-button.pull = digital.Pull.UP
+
+button = digitalio.DigitalInOut(board.GP16)
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.DOWN
 
 
-if button == True:
-   for x in range (10, 0, -1):
-     if x != 0:
-      ledred.value = True
-      print(x)
-      time.sleep(1)
-      ledred.value = False
-      time.sleep(1)
+while True: 
+  if button.value == True:
+    for x in range (10, 0, -1):
+      if x != 0:
+        ledred.value = True
+        print(x)
+        time.sleep(0.5)
+        ledred.value = False
+        time.sleep(0.5)
+      
+      
+      else: 
+        print("Liftoff!")
+        ledgreen.value = False 
+        time.sleep(0.5)
+        ledgreen.value = True
+        time.sleep(0.5)
