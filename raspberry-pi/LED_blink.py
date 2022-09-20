@@ -15,5 +15,5 @@ while True:
    led.value = True
    time.sleep()
    led.value = False
-print("Lift off")
+print("Lift off"
 
