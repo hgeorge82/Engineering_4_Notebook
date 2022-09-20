@@ -15,17 +15,17 @@ button = digitalio.DigitalInOut(board.GP16)
 button.direction = digitalio.Direction.INPUT
 button.pull = digitalio.Pull.DOWN
 
-servo1.angle = 0
-servoname.angle = desired_angle
 
-
-pwm_servo = pwmio.PWMOut(board.GP0, duty_cycle=2 ** 15, frequency=50)
+pwm_servo = pwmio.PWMOut(board.GP17, duty_cycle=2 ** 15, frequency=50)
 servo1 = servo.Servo(pwm_servo, min_pulse=500, max_pulse=2500)
+
+
+servo1.angle = 0
 
 
 while True: 
   if button.value == True:
-    for x in range (10, 0, -1):
+    for x in range (10, -1, -1):
       if x != 0:
         ledred.value = True
         print(x)
@@ -41,3 +41,4 @@ while True:
         time.sleep(0.5)
         ledgreen.value = True
         time.sleep(0.5)
+        servo1.angle = 180
