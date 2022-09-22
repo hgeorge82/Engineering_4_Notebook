@@ -50,4 +50,4 @@ This assignment is to get a countdown printed in the serial monitor.
 ### Test Image
 ![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
 ### Test GIF
-![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdowngif.mov)
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
