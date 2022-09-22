@@ -31,10 +31,10 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
-## Raspberry_Pi_Lights
+## Raspberry_Pi_Countdown
 
 ### Assignment Description
-
+This assignment is to get a countdown printed in the serial monitor.
 ### Evidence 
 
 ### Wiring
