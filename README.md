@@ -44,3 +44,10 @@ This assignment is to get a countdown printed in the serial monitor.
 ### Reflection
 
 &nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdowngif.mov)
