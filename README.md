@@ -31,33 +31,23 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 &nbsp;
 
-## Onshape_Assignment_Template
+## Raspberry_Pi_Countdown
 
 ### Assignment Description
+This assignment is to get a countdown printed in the serial monitor.
+### Evidence 
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+### Wiring
 
-### Part Link 
-
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
-
-### Part Image
-
-Take a nice screenshot of your Onshape document. 
+### Code
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
 &nbsp;
-
-## Media Test
-
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 ### Test Link
 ![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
 ### Test Image
 ![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
 ### Test GIF
-![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/gif.gif)
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
