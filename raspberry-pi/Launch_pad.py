@@ -1,5 +1,5 @@
 # type: ignore
-import RPi.GPIO as GPIO
+import board
 import time
 
 ledPin = 13 

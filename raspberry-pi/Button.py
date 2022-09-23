@@ -14,7 +14,7 @@ button.pull = digitalio.Pull.DOWN
 
 while True: 
   if button.value == True:
-    for x in range (10, 0, -1):
+    for x in range (10, -1, -1):
       if x != 0:
         ledred.value = True
         print(x)
@@ -25,8 +25,8 @@ while True:
       
       else: 
         print("Liftoff!")
-        ledgreen.value = False 
+        ledgreen.value = True
         print(x)
         time.sleep(0.5)
-        ledgreen.value = True
+        ledgreen.value = False
         time.sleep(0.5)

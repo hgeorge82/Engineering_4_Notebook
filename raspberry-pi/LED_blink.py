@@ -6,4 +6,5 @@ led = digitalio.DigitalInOut(board.LED)
 led.direction = digitalio.Direction.OUTPUT
 led.value = True 
 led.value = False
-time.sleep()
+time.sleep(1)
+print("kfkjsfkj")
