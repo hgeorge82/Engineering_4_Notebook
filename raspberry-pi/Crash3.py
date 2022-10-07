@@ -4,6 +4,7 @@ import adafruit_displayio_ssd1306
 import adafruit_mpu6050
 import terminalio
 import displayio
+import digitalio
 import board
 import time
 import busio
@@ -13,6 +14,8 @@ sda_pin = board.GP14
 scl_pin = board.GP15
 i2c = busio.I2C(scl_pin, sda_pin)
 mpu = adafruit_mpu6050.MPU6050(i2c)
+ledred = digitalio.DigitalInOut(board.GP16)
+ledred.direction = digitalio.Direction.OUTPUT
 
 
 
@@ -28,26 +31,43 @@ while True:
   # add title block to display group
   title = "ANGULAR VELOCITY"
   # the order of this command is (font, text, text color, and location)
-  text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=20)
-  splash.append(text_area)    
+  text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=5)
+  splash.append(text_area) 
+  if mpu.acceleration[0] > (9):
+      ledred.value = True
+      print(mpu.acceleration[0])
+      ledred.value = False   
 
 
   title = f"x{mpu.gyro[0]} rad/s"
   # the order of this command is (font, text, text color, and location)
-  text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=40)
+  text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=15)
   splash.append(text_area)
+  if mpu.acceleration[0] < (-9):
+      ledred.value = True
+      print(mpu.acceleration[0])
+      ledred.value = False
 
 
   title = f"y{mpu.gyro[1]} rad/s"
   # the order of this command is (font, text, text color, and location)
-  text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=60)
+  text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=25)
   splash.append(text_area)
+  if mpu.acceleration[0] > (9):
+      ledred.value = True
+      print(mpu.acceleration[0])
+      ledred.value = False
 
 
   title = f"z{mpu.gyro[2]} rad/s"
   # the order of this command is (font, text, text color, and location)
-  text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=80)
+  text_area = label.Label(terminalio.FONT, text=title, color=0xFFFF00, x=5, y=35)
   splash.append(text_area)
+  if mpu.acceleration[0] < (-9):
+      ledred.value = True
+      print(mpu.acceleration[0])
+      ledred.value = False
+
 
   # you will write more code here that prints the x, y, and z angular velocity values to the screen below the title. Use f strings!
   # Don't forget to round the angular velocity values to three decimal places
