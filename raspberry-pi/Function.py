@@ -1,64 +1,45 @@
-# #type: ignore
-# from ast import Continue
+#type: ignore
+def triangle_area(x1y1, x2y2, x3y3)     
 
+try:
+    val1 = input("Put coordinates in: ") 
+    val2 = input("Put coordinates in: ")
+    val3 = input("Put coordinates in: ")
 
-# def print_sensor_values(axis):
-# 	if axis == "x":
-#         print(f"X Acceleration: {mpu.acceleration[0]} m/s2")
-#         print(f"X Angular Velocity: {mpu.gyro[0]} rad/s")
-#         return mpu.acceleration[0], mpu.gyro[0]
-# elif axis == "y":
-#         print(f"X Acceleration: {mpu.acceleration[1]} m/s2")
-#         print(f"X Angular Velocity: {mpu.gyro[1]} rad/s")
-#         return mpu.acceleration[0], mpu.gyro[0]
-# elif axis == "z":
-#         print(f"X Acceleration: {mpu.acceleration[2]} m/s2")
-#         print(f"X Angular Velocity: {mpu.gyro[2]} rad/s")
-#         return mpu.acceleration[0], mpu.gyro[0]
+    val1 = val1.split(",")
+    val2 = val2.split(",")
+    val3 = val3.split(",")
 
-# def triangle_area(x1y1, x2y2, x3y3):
-#     try:
+    x1 = float(val1[0])
+    y1 = float(val1[1])
+    x2 = float(val2[0])
+    y2 = float(val2[1])
+    x3 = float(val3[0])
+    y3 = float(val3[1])
+
+    print(val1)
+    print(val2)
+    print(val3)
     
-# x1y1 = 
-# x2y2 = 
-# x3y3 =
-
-# x1 = ("1")
-# y1 = ("4.5")
-# x2 = ("-2")
-# y2 = ("9")
-# x3 =("4")
-# y3 = ("8")
-
-# area =
-
-# return area 
-
-
-# except:
-#     print()
-    
-#     area = 0
-#     return area 
-
-# while True:
+    area = (abs(x1*(y2 - y3)+x2*(y3 - y1)+x3*(y1 - y2)))/2
+    print(x1,y1,x2,y2,x3,y3)
     
     
-val1 = input("put coords in")
+    return area
 
-print (val1)
+except:
+    
+      print("An exception occurred")
+      
 
-txt = "welcome to the jungle"
-
-x = txt.split(val1)
-
-print(x)
-
-# area = triangle_area(val1, val2, val3)
-
-# if area  == 0:
-#  Continue
- 
- 
-# else:
-#     print()
+while  True:
+    val1 = 
+    val2 =
+    val3 = 
+    
+    area = area_triangle(val1, val2, val3)
+    
+    if area == 0
+    
+    else: 
+        print
