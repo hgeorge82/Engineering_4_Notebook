@@ -63,7 +63,7 @@ This assignment is to get a red led to blink while the countdown runs and a gree
 ### Code
 
 ### Reflection
-
+This assingment was pretty easy I had a little trouble with the wiring though.
 &nbsp;
 
 ### Test Link
@@ -83,7 +83,7 @@ The goal of this assignment is to use a button to start up the countdown.
 ### Wiring
 
 ### Code
-
+https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Servo.py 
 ### Reflection
 
 &nbsp;
@@ -203,11 +203,11 @@ Thew goal of this assignment is to calculate the area of the traingle.
 &nbsp;
 
 ### Test Link
-![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+![Test link]()
 ### Test Image
-![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+![Kermit]()
 ### Test GIF
-![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+![GIF]()
 
 
 
@@ -220,7 +220,7 @@ The goal of this assignment is to get an OLED screen to plot a triangle on the g
 ### Wiring
 
 ### Code
-
+https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Plotting.py
 ### Reflection
 
 &nbsp;
