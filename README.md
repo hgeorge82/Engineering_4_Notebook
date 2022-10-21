@@ -42,6 +42,49 @@ This assignment is to get a countdown printed in the serial monitor.
 ### Code
 
 ### Reflection
+This project was a little tricky at first. I did not realize that the code and explanation of it was on canvas so I was confused. To fix this problem I jsut searched it up.
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+## Raspberry_Pi_Lights
+### Assignment Description
+This assignment is to get a red led to blink while the countdown runs and a green led goes off at the end of the countdown.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+This assingment was pretty easy I had a little trouble with the wiring though.
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+## Raspberry_Pi_Button
+
+### Assignment Description
+The goal of this assignment is to use a button to start up the countdown.
+### Evidence 
+
+### Wiring
+
+### Code
+https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Servo.py 
+### Reflection
 
 &nbsp;
 
@@ -51,3 +94,279 @@ This assignment is to get a countdown printed in the serial monitor.
 ![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
 ### Test GIF
 ![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+## Raspberry_Pi_servo
+
+### Assignment Description
+The goal of this assignment is to get a servo to rotate at the end of the countdown.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+## Raspberry_Pi_Accelerometer
+
+### Assignment Description
+The goal of this assignment is to wire an accelermoter to print out the x, y, and z values.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_Light+Powerboost
+
+### Assignment Description
+The goal of this assignment is to have an LED turn on whenever your breadboard is turned 90 degrees.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_OLED screen
+
+### Assignment Description
+The goal of this assingment is to get the x, y, and z angular velocity values to print on an OLED screen.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_Functions
+
+### Assignment Description
+Thew goal of this assignment is to calculate the area of the traingle.
+
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link]()
+### Test Image
+![Kermit]()
+### Test GIF
+![GIF]()
+
+
+
+## Raspberry_Pi_Plotting
+
+### Assignment Description
+The goal of this assignment is to get an OLED screen to plot a triangle on the graph based on its location.
+### Evidence 
+
+### Wiring
+
+### Code
+https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Plotting.py
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_Countdown
+
+### Assignment Description
+This assignment is to get a countdown printed in the serial monitor.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_Countdown
+
+### Assignment Description
+This assignment is to get a countdown printed in the serial monitor.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_Countdown
+
+### Assignment Description
+This assignment is to get a countdown printed in the serial monitor.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_Countdown
+
+### Assignment Description
+This assignment is to get a countdown printed in the serial monitor.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_Countdown
+
+### Assignment Description
+This assignment is to get a countdown printed in the serial monitor.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+
+
+## Raspberry_Pi_Countdown
+
+### Assignment Description
+This assignment is to get a countdown printed in the serial monitor.
+### Evidence 
+
+### Wiring
+
+### Code
+
+### Reflection
+
+&nbsp;
+
+### Test Link
+![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
+### Test Image
+![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
+### Test GIF
+![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
