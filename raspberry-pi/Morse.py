@@ -10,17 +10,24 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
     'X':'-..-', 'Y':'-.--', 'Z':'--..',
     '1':'.----', '2':'..---', '3':'...--',
     '4':'....-', '5':'.....', '6':'-....',
+    '7':'--...', '8':'---..', '9':'----.',
+    '0':'-----', ', ':'--..--', '.':'.-.-.-',
+    '?':'..--..', '/':'-..-.', '-':'-....-',
+    '(':'-.--.', ')':'-.--.-', " ": "/"}
  
  
  
- 
- 
- 
-string.upper() 
 while True:  
-    for letter in message:
-	
-}
-print(mycar["mileage"])
+    
+    mycar1 = input("Morse code translation: ")
+    if mycar1 == "-q":
+        break
+    mycar1 = mycar1.upper()
+    
+    mileage1 = " "
+    
+    for letter in mycar1:
+        mileage1 = mileage1 + MORSE_CODE[letter] + " "
 
+    print(mileage1)
 
