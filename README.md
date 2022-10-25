@@ -85,7 +85,7 @@ The goal of this assignment is to use a button to start up the countdown.
 ### Code
 https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Servo.py 
 ### Reflection
-
+During this assignment I had a bit of trouble with the button. I got the wiring mixed which messed up everything. To fix this problem I asked for Mr.Miller for help.
 &nbsp;
 
 ### Test Link
@@ -234,10 +234,10 @@ https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Plott
 
 
 
-## Raspberry_Pi_Countdown
+## Raspberry_Pi_Translation
 
 ### Assignment Description
-This assignment is to get a countdown printed in the serial monitor.
+This assignment translates text to morse code
 ### Evidence 
 
 ### Wiring
@@ -257,10 +257,10 @@ This assignment is to get a countdown printed in the serial monitor.
 
 
 
-## Raspberry_Pi_Countdown
+## Raspberry_Pi_Transmission
 
 ### Assignment Description
-This assignment is to get a countdown printed in the serial monitor.
+The goal of this assignment is to get the trasnlation of the text to flash with the led's.
 ### Evidence 
 
 ### Wiring
@@ -277,96 +277,3 @@ This assignment is to get a countdown printed in the serial monitor.
 ![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
 ### Test GIF
 ![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
-
-
-
-## Raspberry_Pi_Countdown
-
-### Assignment Description
-This assignment is to get a countdown printed in the serial monitor.
-### Evidence 
-
-### Wiring
-
-### Code
-
-### Reflection
-
-&nbsp;
-
-### Test Link
-![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
-### Test Image
-![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
-### Test GIF
-![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
-
-
-
-## Raspberry_Pi_Countdown
-
-### Assignment Description
-This assignment is to get a countdown printed in the serial monitor.
-### Evidence 
-
-### Wiring
-
-### Code
-
-### Reflection
-
-&nbsp;
-
-### Test Link
-![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
-### Test Image
-![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
-### Test GIF
-![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
-
-
-
-## Raspberry_Pi_Countdown
-
-### Assignment Description
-This assignment is to get a countdown printed in the serial monitor.
-### Evidence 
-
-### Wiring
-
-### Code
-
-### Reflection
-
-&nbsp;
-
-### Test Link
-![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
-### Test Image
-![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
-### Test GIF
-![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
-
-
-
-## Raspberry_Pi_Countdown
-
-### Assignment Description
-This assignment is to get a countdown printed in the serial monitor.
-### Evidence 
-
-### Wiring
-
-### Code
-
-### Reflection
-
-&nbsp;
-
-### Test Link
-![Test link](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
-### Test Image
-![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
-### Test GIF
-![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
-
