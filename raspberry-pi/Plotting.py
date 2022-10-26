@@ -1,15 +1,24 @@
 #type: ignore
+import math
+import board
 from adafruit_display_shapes.triangle import Triangle
 from adafruit_display_shapes.line import Line
-from adafruit_display_shapes.circle import Circle
+from adafruit_display_shapes.circle import Circle 
+import board
+import busio
+import displayio
+import adafruit_displayio_ssd1306
+import adafruit_mpu6050
 
 
-
+displayio.release_displays() 
 sda_pin = board.GP14
 scl_pin = board.GP15 
 i2c = busio.I2C(scl_pin, sda_pin)
 display_bus = displayio.I2CDisplay(i2c, device_address= 0x3d , reset=board.GP18)
 display = adafruit_displayio_ssd1306.SSD1306(display_bus, width=128, height=64)
+mpu = adafruit_mpu6050.MPU6050(i2c, address=0x68)
+
 
 
 def triangle_area(val1, val2,val3):   
@@ -30,19 +39,23 @@ def triangle_area(val1, val2,val3):
         print(val2)
         print(val3)
         
-        hline = Line(0,64,0,64, color=0xFFFF00)
+        
+        splash = displayio.Group()
+        
+        hline = Line(64,0,64,64, color=0xFFFF00)
         splash.append(hline)
         
-        circle = Circle(64, 32, 0, outline=0xFFFF00)
+        circle = Circle(64, 32, 5, outline=0xFFFF00)
         splash.append(circle)
         
-        triangle = Triangle(val1, val2, val3, outline=0xFFFF00)
+        triangle = Triangle(int(x1)+64, -int(y1)+32, int(x2)+64, -int(y2)+32, int(x3)+64, -int(y3)+32, outline=0xFFFF00)
         splash.append(triangle)
 
         area = (abs(x1*(y2 - y3)+x2*(y3 - y1)+x3*(y1 - y2)))/2
         print(x1,y1,x2,y2,x3,y3)
         
-        
+        splash.append(triangle)
+        display.show(splash)
         return area
 
     except:
@@ -64,4 +77,4 @@ while  True:
     else:
         print("The area of the triangle with vertices: ")
         print(area)
-        
+         
