@@ -260,7 +260,7 @@ This assignment translates text to morse code
 ## Raspberry_Pi_Transmission
 
 ### Assignment Description
-The goal of this assignment is to get the trasnlation of the text to flash with the led's.
+The goal of this assignment is to get the translation of the text to flash with the led's.
 ### Evidence 
 
 ### Wiring
