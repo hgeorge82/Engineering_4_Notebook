@@ -30,7 +30,7 @@ This assignment is to get a countdown printed in the serial monitor.
 ### Code
 ![Code](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Intro.py)
 ### Reflection
-This assignment was fairly simple but I made it harder than it needed to be. It's been a while since i've done code, specifically circuit python so it took me a while to get the hang of it. Once I
+This assignment was fairly simple but I made it harder than it needed to be. It's been a while since i've done code, specifically circuit python so it took me a while to get the hang of it. Once I recalled parts of it, I figured it out.
 &nbsp;
 
 ## Raspberry_Pi_Lights
