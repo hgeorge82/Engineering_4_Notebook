@@ -30,7 +30,7 @@ This assignment is to get a countdown printed in the serial monitor.
 ### Code
 ![Code](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Intro.py)
 ### Reflection
-This project was pretty simple. At first I was confused because it had been while since i've done code. Once I started remembering things I got the hang of it.
+This assignment was fairly simple but I made it harder than it needed to be. It's been a while since i've done code, specifically circuit python so it took me a while to get the hang of it. Once I
 &nbsp;
 
 ## Raspberry_Pi_Lights
@@ -43,7 +43,7 @@ This assignment is to get a red led to blink while the countdown runs and a gree
 ### Code
 
 ### Reflection
-This assingment was pretty easy I had a little trouble with the wiring though.
+For this assingment all you need was to combine the previous codes
 &nbsp;
 
 ### Test Link
