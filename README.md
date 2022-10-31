@@ -43,7 +43,7 @@ This assignment is to get a red led to blink while the countdown runs and a gree
 ### Code
 
 ### Reflection
-For this assingment all you need was to combine the previous codes
+This assignment was ok for the most part. I'm still trying to remember everything i've learned about code. All I had to do for this assignment was to combine the two existing codes and make a new code. It was hard for me because I was overcomplicating it and not fully reading the instructions.
 &nbsp;
 
 ### Test Link
@@ -65,7 +65,7 @@ The goal of this assignment is to use a button to start up the countdown.
 ### Code
 https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Servo.py 
 ### Reflection
-During this assignment I had a bit of trouble with the button. I got the wiring mixed which messed up everything. To fix this problem I asked for Mr.Miller for help.
+The challenging part of this assignment was adding even more wires. I hate wiring things up especially when there's a potential risk of short circuiting something.
 &nbsp;
 
 ### Test Link
@@ -87,7 +87,7 @@ The goal of this assignment is to get a servo to rotate at the end of the countd
 ### Code
 
 ### Reflection
-
+This assignemtn was fairly simple. I just needed a few things to be explained and  in easiar terms
 &nbsp;
 
 ### Test Link
@@ -109,7 +109,7 @@ The goal of this assignment is to wire an accelermoter to print out the x, y, an
 ### Code
 
 ### Reflection
-
+This assignment looked very intimidating at first because everything looked confusing and I kind of freaked out. When I took my time to actually read it properly I realized that most of this was given to me and all I needed was to copy and paste. 
 &nbsp;
 
 ### Test Link
