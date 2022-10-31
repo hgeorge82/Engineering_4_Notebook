@@ -28,36 +28,33 @@ def triangle_area(val1, val2,val3):
         val2 = val2.split(",")
         val3 = val3.split(",")
 
-        x1 = float(val1[0])
-        y1 = float(val1[1])
-        x2 = float(val2[0])
-        y2 = float(val2[1])
-        x3 = float(val3[0])
-        y3 = float(val3[1])
+        x1=float(val1[0])
+        y1=float(val1[1])
+        x2=float(val2[0])
+        y2= float(val2[1])
+        x3= float(val3[0])
+        y3= float(val3[1])
+
+        area = (abs(x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2)))/2  
+        print ({x1}, {y1}), ({x2}, {y2}), ({x3}, {y3})
 
         print(val1)
         print(val2)
         print(val3)
-        
-        
+
         splash = displayio.Group()
-        
+
         hline = Line(64,0,64,64, color=0xFFFF00)
         splash.append(hline)
-        
+
         circle = Circle(64, 32, 5, outline=0xFFFF00)
         splash.append(circle)
-        
-        triangle = Triangle(int(x1)+64, -int(y1)+32, int(x2)+64, -int(y2)+32, int(x3)+64, -int(y3)+32, outline=0xFFFF00)
-        splash.append(triangle)
 
-        area = (abs(x1*(y2 - y3)+x2*(y3 - y1)+x3*(y1 - y2)))/2
-        print(x1,y1,x2,y2,x3,y3)
-        
+        triangle = Triangle(int(x1)+64, -int(y1)+32, int(x2)+64, -int(y2)+32, int(x3)+64, -int(y3)+32, outline=0xFFFF00)
         splash.append(triangle)
         display.show(splash)
         return area
-
+    
     except:
         
         print("An exception occurred")
