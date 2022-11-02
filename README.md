@@ -87,7 +87,7 @@ The goal of this assignment is to get a servo to rotate at the end of the countd
 ### Code
 
 ### Reflection
-For this assignment what was needed was a 180 micro servo in order fr
+This assignment requires a servo and your previous code. First, I copied my code for my button and altered it just a bit by adding the requirements for the servo.
 &nbsp;
 
 ### Test Link
