@@ -65,7 +65,7 @@ The goal of this assignment is to use a button to start up the countdown.
 ### Code
 https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/raspberry-pi/Servo.py 
 ### Reflection
-The challenging part of this assignment was adding even more wires. I hate wiring things up especially when there's a potential risk of short circuiting something.
+The challenging part of this assignment was adding even more wires. I hate wiring things up especially when there's a potential risk of short circuiting something. To get this assignment to work I had to 
 &nbsp;
 
 ### Test Link
@@ -87,7 +87,7 @@ The goal of this assignment is to get a servo to rotate at the end of the countd
 ### Code
 
 ### Reflection
-This assignemtn was fairly simple. I just needed a few things to be explained and  in easiar terms
+For this assignment what was needed was a 180 micro servo in order fr
 &nbsp;
 
 ### Test Link
@@ -109,7 +109,7 @@ The goal of this assignment is to wire an accelermoter to print out the x, y, an
 ### Code
 
 ### Reflection
-This assignment looked very intimidating at first because everything looked confusing and I kind of freaked out. When I took my time to actually read it properly I realized that most of this was given to me and all I needed was to copy and paste. 
+This assignment looked very intimidating at first because everything looked confusing and I kind of freaked out. When I took my time to actually read it properly I realized that most of this was given to me and all I needed was to copy the code segments given and think critically about it. 
 &nbsp;
 
 ### Test Link
@@ -132,7 +132,7 @@ The goal of this assignment is to have an LED turn on whenever your breadboard i
 ### Code
 
 ### Reflection
-
+This assingment was really easy. All I needed to do was add an led to the existing code and boom it works. period. 
 &nbsp;
 
 ### Test Link
