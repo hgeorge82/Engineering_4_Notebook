@@ -257,3 +257,46 @@ The goal of this assignment is to get the translation of the text to flash with 
 ![Kermit](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/kermit.png)
 ### Test GIF
 ![GIF](https://github.com/hgeorge82/Engineering_4_Notebook/blob/main/images/countdown%20(2).gif)
+
+## FEA Part 1 
+
+### Description 
+
+### Evidence
+
+### Reflection
+
+
+## FEA Part 2 
+
+### Description 
+
+### Evidence
+![Picture](file:///C:/Users/hgeorge82/Pictures/beamee.png)
+![Onshape Link](https://cvilleschools.onshape.com/documents/d3f071195e72ab2f4b7b53b9/w/ef64cd3bfabf50f2415630d9/e/b31755bf5a988d7458495938)
+### Reflection
+
+
+## FEA Part 3 
+
+### Description 
+
+### Evidence
+
+### Reflection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
