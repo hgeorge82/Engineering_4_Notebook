@@ -261,20 +261,22 @@ The goal of this assignment is to get the translation of the text to flash with 
 ## FEA Part 1 
 
 ### Description 
-
-### Evidence
-
-### Reflection
-
-
-## FEA Part 2 
-
-### Description 
-
+This assignment was to make a beam.
 ### Evidence
 ![Picture](file:///C:/Users/hgeorge82/Pictures/beamee.png)
 ![Onshape Link](https://cvilleschools.onshape.com/documents/d3f071195e72ab2f4b7b53b9/w/ef64cd3bfabf50f2415630d9/e/b31755bf5a988d7458495938)
 ### Reflection
+My first idea was to make a standard H beam. It was going to be a an H beam with extra beams in the middle. I tried it then quickly realized it didn't work. There was still overhang so I had to scrap that idea and start over. (I did not take picsture of my other versions...oops..).
+
+## FEA Part 2 
+
+### Description 
+This was an assingment to make 
+### Evidence
+![Picture](file:///C:/Users/hgeorge82/Pictures/beamee.png)
+![Onshape Link](https://cvilleschools.onshape.com/documents/d3f071195e72ab2f4b7b53b9/w/ef64cd3bfabf50f2415630d9/e/b31755bf5a988d7458495938)
+### Reflection
+I think the point of breaking will be closer to the end. I plan to reinforce this by adding trainlge holes inbetween the chamfers. If that doesn't work I plan on adding fillets to the chamfer holkes I made.
 
 
 ## FEA Part 3 
@@ -282,9 +284,10 @@ The goal of this assignment is to get the translation of the text to flash with 
 ### Description 
 
 ### Evidence
-
+![Picture](file:///C:/Users/hgeorge82/Pictures/beamee.png)
+![Onshape Link](https://cvilleschools.onshape.com/documents/d3f071195e72ab2f4b7b53b9/w/ef64cd3bfabf50f2415630d9/e/b31755bf5a988d7458495938)
 ### Reflection
-
+While making this design I had trouble eliminating the overhang. The design was an H beam with chamfers as supports. There was an overhang so to fix this I added triangles through the supports. When I tested it there wasn't a lot of support at the end of the beam. From that test, I added fillets in hope that that would give extra support but I didn't get to test it since we ended up using Elias's beam
 
 
 
