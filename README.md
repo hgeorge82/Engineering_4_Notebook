@@ -294,6 +294,47 @@ While making this design I had trouble eliminating the overhang. The design was 
 
 
 
+## 4.1 Ring and Spinner
+
+### Assignment Description
+In this assignment I had to make a spinner which is a part of the pull copter. This part will connect to the key meshing with the teeth. The top part of the spinner is where the prop will sit.
+### Part Link 
+
+[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/65051d370741881758e06006/w/5a6a0bda4047f7897f8aca77/e/70fe7b948f0196b532e514df). 
+
+### Part Image
+![Spinner](https://user-images.githubusercontent.com/71407017/202534925-50e70f97-239e-4395-abf2-9114250ed38f.png)
+
+
+### Reflection
+
+This assignnment was pretty easy but I missed a step that makes the gear. I dimensioned the the circle to the outside of the spiner incorrectly so the teeth were very thin.  
+
+
+
+
+
+## 4.1 Ring and Spinner
+
+### Assignment Description
+In this assignment I had to make a spinner which is a part of the pull copter. This part will connect to the key meshing with the teeth. The top part of the spinner is where the prop will sit.
+### Part Link 
+
+[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/65051d370741881758e06006/w/5a6a0bda4047f7897f8aca77/e/70fe7b948f0196b532e514df). 
+
+### Part Image
+![Prop](https://user-images.githubusercontent.com/71407017/202537814-137196bb-cd82-4ef0-b286-25804fde5c44.png)
+
+
+### Reflection
+
+This assignnment was pretty easy. All I had to was make an offset and extrude. Then added it to the assembly.
+
+
+
+
+
+
 
 
 
