@@ -308,13 +308,13 @@ In this assignment I had to make a spinner which is a part of the pull copter. T
 
 ### Reflection
 
-This assignnment was pretty easy but I missed a step that makes the gear. I dimensioned the the circle to the outside of the spiner incorrectly so the teeth were very thin.  
 
 
 
 
 
-## 4.1 Ring and Spinner
+
+## 4.2 Ring and Spinner
 
 ### Assignment Description
 In this assignment I had to make a spinner which is a part of the pull copter. This part will connect to the key meshing with the teeth. The top part of the spinner is where the prop will sit.
