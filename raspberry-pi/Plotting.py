@@ -1,4 +1,5 @@
 #type: ignore
+#board.GP04
 import math
 import board
 from adafruit_display_shapes.triangle import Triangle
