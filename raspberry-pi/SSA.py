@@ -1,5 +1,5 @@
 # type: ignore
-import time
+import time 
 import board
 import busio
 import adafruit_mpl3115a2
