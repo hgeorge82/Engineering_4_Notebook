@@ -1,8 +1,13 @@
 #type: ignore
+# SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
+# SPDX-License-Identifier: MIT
+
+# Simple GPS module demonstration.
+# Will wait for a fix and print a message every second with the current location
+# and other details.
 import time
 import board
 import busio
-
 
 import adafruit_gps
 
@@ -10,11 +15,11 @@ import adafruit_gps
 # a slightly higher timeout (GPS modules typically update once a second).
 # These are the defaults you should use for the GPS FeatherWing.
 # For other boards set RX = GPS module TX, and TX = GPS module RX pins.
-uart = serial.Serial("/dev/ttyUSB0", baudrate=9600, timeout=10)
 uart = busio.UART(board.GP12, board.GP13, baudrate=9600, timeout=10)
 
-
-
+# for a computer, use the pyserial library for uart access
+# import serial
+# uart = serial.Serial("/dev/ttyUSB0", baudrate=9600, timeout=10)
 
 # If using I2C, we'll create an I2C interface to talk to using default pins
 # i2c = board.I2C()  # uses board.SCL and board.SDA
