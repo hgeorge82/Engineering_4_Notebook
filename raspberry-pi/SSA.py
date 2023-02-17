@@ -27,13 +27,20 @@ if not write_pin.value:
 
 sensor.sealevel_pressure = 102250
 
+alt_pressure = []
+alt_altitude =[]
+alt_temperature =[]
+
 
 while True:
     pressure = sensor.pressure
+    alt_pressure.append()
     print("Pressure: {0:0.3f} pascals".format(pressure))
     altitude = sensor.altitude
+    alt_altitude.append()
     print("Altitude: {0:0.3f} meters".format(altitude))
     temperature = sensor.temperature
+    alt_temperature.append()
     print("Temperature: {0:0.3f} degrees Celsius".format(temperature))
     time.sleep(1.0)
     break 
